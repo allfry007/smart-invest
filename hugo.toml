@@ -1,0 +1,40 @@
+baseURL = "https://allfry007.github.io/smart-invest"
+languageCode = "fr-fr"
+title = "Smart Investment Blog"
+theme = "PaperMod"
+
+[params]
+  env = "production"
+  description = "Investissement intelligent, crypto, trading et finance personnelle"
+  author = "dahut7"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  disableSpecial1stPost = false
+
+  [params.homeInfoParams]
+    Title = "Smart Investment Blog"
+    Content = "Investissement intelligent, crypto, trading et finance personnelle"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dahut7"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
