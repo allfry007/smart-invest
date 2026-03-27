@@ -1,10 +1,10 @@
 ---
-title: "Stratégie DCA Crypto : Guide Complet pour Investir Intelligemment"
+title: "Stratégie DCA Crypto : Guide Complet pour Investir Sereinement"
 slug: "strategie-dca-crypto-guide"
-date: 2026-03-26T21:23:51+00:00
+date: 2026-03-27T00:09:19+00:00
 categories: ["DCA crypto stratégie investissement"]
 tags: ["Strat\u00e9gie DCA crypto"]
-description: "Stratégie DCA Crypto : Guide Complet pour Investir Intelligemment"
+description: "Stratégie DCA Crypto : Guide Complet pour Investir Sereinement"
 draft: false
 ---
 
