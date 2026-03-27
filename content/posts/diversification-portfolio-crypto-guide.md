@@ -1,10 +1,10 @@
 ---
-title: "Diversification de portefeuille crypto : Guide complet et stratégies"
+title: "Guide Complet : Comment Diversifier son Portefeuille Crypto en 2024"
 slug: "diversification-portfolio-crypto-guide"
-date: 2026-03-27T01:09:20+00:00
+date: 2026-03-27T03:24:30+00:00
 categories: ["portfolio crypto diversification"]
 tags: ["portfolio crypto diversification"]
-description: "Diversification de portefeuille crypto : Guide complet et stratégies"
+description: "Guide Complet : Comment Diversifier son Portefeuille Crypto en 2024"
 draft: false
 ---
 
