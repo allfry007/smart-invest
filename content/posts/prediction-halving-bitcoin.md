@@ -18,7 +18,6 @@ Les données de trading actuelles illustrent une phase de consolidation intéres
 
 Cette dynamique technique reflète l'anticipation du marché face au choc d'offre imminent. L'offre inélastique du Bitcoin confrontée à une demande croissante institutionnelle crée les conditions d'un déséquilibre potentiellement explosif. Les analystes notent que les effets du halving ne se matérialisent souvent que 6 à 12 mois après l'événement, une fois l'absorption de la liquidité sortante des mineurs effectuée.
 
-1.  **Analyze the Request:**
     *   **Topic:** Bitcoin Halving Price Prediction.
     *   **Specific Section:** Historical analysis: price evolution after previous halvings.
     *   **Language:** French.
@@ -57,7 +56,6 @@ Cette dynamique technique reflète l'anticipation du marché face au choc d'offr
 
         Cette stagnation apparente ne doit pas tromper les investisseurs. Historiquement, c'est souvent lors de
 
-1.  **Analyze the Request:**
     *   **Topic:** "prédiction halving bitcoin" (Bitcoin halving prediction).
     *   **Section:** "Scénarios de prédiction pour le prochain cycle de marché" (Prediction scenarios for the next market cycle).
     *   **Length:** Approximately 250 words.
@@ -110,7 +108,6 @@ Cette dynamique technique reflète l'anticipation du marché face au choc d'offr
 
         Le premier scénario, le plus vraisemblable, est celui d'une "réaccumulation explosive". Bien que le régime actuel soit identifié comme "ranging" (range), l'indicateur RSI stable à 44 suggère qu'il n'y
 
-1.  **Analyze the Request:**
     *   **Topic:** Bitcoin halving prediction.
     *   **Section:** The influence of macroeconomic factors and Spot ETFs.
     *   **Language:** French.

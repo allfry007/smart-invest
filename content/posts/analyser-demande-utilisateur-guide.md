@@ -3,7 +3,6 @@ title: "Comment analyser une demande utilisateur : Guide méthodologique complet
 slug: "analyser-demande-utilisateur-guide"
 date: 2026-03-27T06:57:39+00:00
 categories: ["portfolio crypto diversification"]
-tags: ["1.  **Analyze the user's request:**"]
 description: "Comment analyser une demande utilisateur : Guide méthodologique complet"
 draft: false
 ---
@@ -120,9 +119,7 @@ L'analyse partielle génère des réponses déconnectées. Par exemple, constate
     *   Word count: ~250 words.
 
     *   *Challenge:* How to integrate specific BTC/USDT trading data into an article about "Reformulation" (a communication skill)?
-    *   *Hypothesis 1:* The user made a mistake and pasted trading data by accident. I should ignore it and write about communication.
     *   *Hypothesis 2:* The user wants me to write a text about "Reformulation" *using* the trading data as the *subject* of the communication. E.g., "If you tell a client BTC is at 68k, they must confirm." This makes the most sense. It connects the disparate elements.
-    *   *Hypothesis 3:* The prompt "1. Analyze the user's request:" is actually the *text* I need to generate, or the header? No, the prompt says "Écris 250 mots... section 'La reformulation...'".
     *   Let's go with Hypothesis 2. I will write a text about the importance of reformulating information, using the provided trading data as an example of critical information that needs confirmation to avoid financial errors.
 
 ---

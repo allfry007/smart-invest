@@ -8,7 +8,6 @@ description: "Analyse Technique Crypto : Guide Complet du RSI et du MACD"
 draft: false
 ---
 
-1.  **Analyze the Request:**
     *   **Topic:** "analyse technique crypto RSI MACD" (Crypto technical analysis RSI MACD).
     *   **Section:** "Introduction : L'importance de l'analyse technique dans le trading de cryptomonnaies" (Introduction: The importance of technical analysis in cryptocurrency trading).
     *   **Length:** Approximately 250 words.
@@ -42,7 +41,6 @@ draft: false
 
     *   *Connecting Data to Argument:* Cette séquence, où le prix a grimpé lentement jusqu'à 68 703 $, démontre pourquoi l'analyse technique est cruciale : elle permet de déchiffrer la force sous-jacente d'un mouvement. Un novice pourrait voir la hausse du prix et acheter, mais
 
-1.  **Analyze the Request:**
     *   **Topic:** "Tout savoir sur le RSI (Relative Strength Index) : Fonctionnement et zones clés" (All about RSI: How it works and key zones).
     *   **Context:** Technical analysis in crypto (specifically "analyse technique crypto RSI MACD").
     *   **Length:** Approximately 250 words.
@@ -85,7 +83,6 @@ draft: false
     *   *Adding MACD Context:* Cependant, la donnée **MACD=↑** suggère un regain de pression acheteuse, malgré la phase de consolidation actuelle (Régime=ranging).
     *   *Conclusion:* Le RSI permet donc de tempérer l'enthousias
 
-**Analyze the Request:**
 1.  **Topic:** "Analyse technique crypto RSI MACD", specifically the section "Comprendre le MACD (Moving Average Convergence Divergence) : Signaux et tendances".
 2.  **Language:** French.
 3.  **Length:** Approximately 250 words.
@@ -124,7 +121,6 @@ draft: false
 *   *Data Integration:* Observons des données réelles sur la paire BTC/USDT. À 05h45, le prix était de 68 596 $ avec un MACD en hausse (↑) et un RSI neutre à 44. Peu après, à 06h15, le cours a grimpé à 68 615 $, confirmant la direction du MACD (↑). Enfin, à 07h06, le Bitcoin atteignait 68 703 $.
 *   *Interpretation:* Ces données illustrent comment le MACD peut capter un mouvement ascendant même dans un régime de marché "ranging" (latéral). La hausse continue de l'histogramme ou de la ligne confirme que l'élan est présent, bien que l'ampleur
 
-1.  **Analyze the Request:**
     *   **Topic:** Technical analysis in crypto, specifically RSI and MACD.
     *   **Section Title:** "Stratégie avancée : Combiner le RSI et le MACD pour confirmer les mouvements" (Advanced Strategy: Combining RSI and MACD to confirm moves).
     *   **Language:** French.
@@ -165,7 +161,6 @@ draft: false
 **Ne manquez rien** — [Rejoignez la newsletter](#newsletter) et accédez aux guides exclusifs.
 ---
 
-1.  **Analyze the Request:**
     *   **Topic:** Crypto technical analysis (RSI, MACD).
     *   **Section:** Conclusion and Risk Management: Limitations of indicators and practical advice.
     *   **Language:** French.

@@ -8,7 +8,6 @@ description: "Diversification de Portfolio Crypto : Stratégies pour Sécuriser 
 draft: false
 ---
 
-1.  **Analyze the Request:**
     *   **Topic:** Introduction to "Why diversification is the key to survival in the crypto market".
     *   **Subject:** Crypto portfolio diversification.
     *   **Length:** Approximately 250 words.
@@ -26,7 +25,6 @@ draft: false
 
     *   *Hook:* Start with the volatility of the crypto market. It's a battlefield.
     *   *The "Only Bitcoin" argument:* Mention that while Bitcoin is king, it has periods of stagnation.
-    *   *Integrating Data:* I need to weave the specific trading checks naturally.
         *   *Observation:* The data shows BTC hovering between 68,600$ and 68,700$ between June 15 and July 13. RSI is neutral (44), MACD is slightly bullish but the regime is "ranging" (consolidation).
         *   *Narrative:* "Look at the charts recently. BTC has been stuck."
     *   *The "Why" (Diversification):* Explain that to survive these boring or uncertain times, one must look elsewhere (Altcoins, DeFi, Stablecoins) to manage risk and seek yield.
@@ -95,7 +93,6 @@ Constraints:
 2.  **Language:** French.
 3.  **Topic:** Crypto portfolio diversification, specifically risk management via correlation and weighted allocation.
 4.  **Call to Action (CTA):** Must include ``.
-5.  **Real Data Integration:** I need to incorporate the provided trading data points.
     *   `trade_check_0615`: BTC/USDT 68615$, RSI 44, MACD Up, Range.
     *   `trade_check_0706`: BTC/USDT 68703$, RSI 44, MACD Up, Range.
     *   `trade_check_0713`: BTC/USDT 68650$, RSI 44... (partial data, but I can infer the context).
@@ -129,7 +126,6 @@ Constraints:
 *   *Closing:* Les actifs plus spéculatifs doivent recevoir une pondération mineure pour limiter les pertes potentielles en cas de décrochage.
 *
 
-1.  **Analyze the Request:**
     *   **Topic:** "Portfolio crypto diversification" (Diversification de portefeuille crypto).
     *   **Section:** "Techniques de rééquilibrage et erreurs fréquentes à éviter" (Rebalancing techniques and common mistakes to avoid).
     *   **Length:** Approximately 250 words.

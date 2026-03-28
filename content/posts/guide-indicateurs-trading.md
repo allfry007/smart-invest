@@ -8,10 +8,8 @@ description: "Les Indicateurs de Trading : Guide Complet des Outils Techniques"
 draft: false
 ---
 
-1.  **Analyze the Request:**
     *   **Topic:** "indicateurs trading" (Trading Indicators).
     *   **Section:** "Introduction : Définition et rôle des indicateurs en analyse technique" (Introduction: Definition and role of indicators in technical analysis).
-    *   **Word Count:** Approximately 250 words.
     *   **Language:** French.
     *   **Constraint:** Integrate specific "REAL DATA" provided (trade_check_0545, trade_check_0615, trade_check_0706).
 
@@ -98,8 +96,6 @@ The user wants a 250-word French text about "indicateurs trading" (trading indic
 **Recevez nos meilleurs conseils chaque semaine** — [Inscrivez-vous gratuitement](#newsletter)
 ---
 
-**Word Count Check:**
-The draft looks a bit short if I just list them. I need to expand slightly on *why* each family is important to hit ~250 words
 
 # Top 5 des indicateurs incontournables (RSI, MACD, Moyennes Mobiles, Bollinger, Volume)
 
@@ -117,7 +113,6 @@ Dans l'univers volatile du trading crypto, maîtriser les bons outils techniques
 
 La clé réside dans la combinaison de ces outils plutôt que leur utilisation isolée.
 
-1.  **Analyze the Request:**
     *   **Topic:** "indicateurs trading" (trading indicators), specifically "Comment combiner les indicateurs pour valider une stratégie ?" (How to combine indicators to validate a strategy?).
     *   **Length:** Approximately 250 words.
     *   **Language:** French.
@@ -134,7 +129,6 @@ La clé réside dans la combinaison de ces outils plutôt que leur utilisation i
 
     *   **Introduction:** Define the importance of not relying on a single indicator. Redundancy vs. Confirmation.
     *   **Concept:** Confluence. Explain how different types of indicators (Trend, Momentum, Volatility) work together.
-    *   **Application (Using the Data):** I need to weave the BTC/USDT data into an example.
         *   *Scenario:* Analyzing Bitcoin.
         *   *Data points to use:* Price ~$68,600-$68,700, RSI 44, MACD rising, Range market.
         *   *Analysis:* Since it's ranging, trend indicators might give false signals. Momentum (MACD) suggests slight buying, but RSI (44) isn't oversold enough for a bounce yet.
@@ -168,7 +162,6 @@ La clé réside dans la combinaison de ces outils plutôt que leur utilisation i
 
         Illustrons cela avec les données
 
-1.  **Analyze the Request:**
     *   **Topic:** "Conclusion et avertissement : Les limites des indicateurs et la gestion du risque" (Conclusion and warning: The limits of indicators and risk management) within the context of "indicateurs trading" (trading indicators).
     *   **Language:** French.
     *   **Length:** Approximately 250 words.

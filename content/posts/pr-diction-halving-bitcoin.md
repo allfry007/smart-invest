@@ -9,7 +9,6 @@ draft: false
 ---
 
 The user wants an introduction section (about 250 words) in French about "Bitcoin Halving Prediction".
-I need to integrate specific real-time trading data provided in the prompt.
 
 **Data Analysis:**
 - `trade_check_0545`: BTC/USDT = $68,596 | RSI = 44 | MACD = Up (↑) | Regime = ranging | Signal (S?)
@@ -102,7 +101,6 @@ Pour démarrer votre analyse :
 
 En résumé, ne vous basez pas uniquement sur la date du halving. Intégrez ces données techniques journalières pour ajuster vos entrées de position.
 
-Word count check: This looks a bit short, I need to expand to reach closer to 250 words. I will elaborate on the methodology.
 
 Revised Draft:
 Pour se lancer dans la prédiction du halving Bitcoin, l'approche doit mêler théorie macroéconomique et analyse technique rigoureuse. Le halving, qui divise par deux les récompenses de mineurs, est un événement haussier fondamental, mais l'entrée sur le marché demande de la précision.
@@ -110,7 +108,6 @@ Pour se lancer dans la prédiction du halving Bitcoin, l'approche doit mêler th
 La première étape consiste à analyser la structure du marché actuel. Prenons l'exemple des données récentes sur la paire BTC/USDT. Sur une courte fenêtre (de 05h45 à 07h06), le prix a oscillé entre 68 596 $ et 68 703 $. Cette stabilité apparente masque des indices cruciaux. Le régime de marché ("ranging") indique une consolidation, typique avant un mouvement direction
 
 The user wants a 250-word French text about "Bitcoin halving prediction" (prédiction halving bitcoin), specifically focusing on "Mistakes to avoid" (Erreurs à éviter).
-I need to incorporate specific trading data provided in the prompt:
 - BTC/USDT around $68,596 - $68,703.
 - RSI around 44.
 - MACD trending up.
@@ -159,8 +156,6 @@ To maximize your gains during this cycle and avoid these traps, you need robust 
 Prepare your strategy now with the best platform: .
 
 **Reviewing word count and constraints:**
-- The draft looks a bit short, maybe around 150 words. I need to expand on the *implications* of the mistakes to hit ~250 words.
-- I need to weave the specific "trade_check" data points naturally.
 
 **Expanded Draft:**
 *Section: Erreurs à éviter*
@@ -174,7 +169,6 @@ Prenons les données actuelles. Le BTC/USDT évolue présentement autour de **68
 ---
 
 The user wants a 250-word text in French for a section titled "Conclusion et prochaines étapes" about "Bitcoin halving prediction".
-I need to incorporate specific real trading data provided in the prompt.
 
 **Analyze the Data:**
 1.  `trade_check_0545`: BTC/USDT: 68596$, RSI=44, MACD=↑, Régime=ranging, S (likely Support or Sell signal, but given RSI 44 and ranging, it's neutral/bearish consolidation).
