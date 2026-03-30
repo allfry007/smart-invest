@@ -1,27 +1,35 @@
-baseURL = "https://allfry007.github.io/smart-invest"
+baseURL = "https://allfry007.github.io/smart-invest/"
 languageCode = "fr-fr"
-title = "Smart Investment Blog"
+title = "Smart Invest"
 theme = "PaperMod"
+paginate = 10
 
 [params]
   env = "production"
-  description = "Investissement intelligent, crypto, trading et finance personnelle"
-  author = "dahut7"
+  description = "Guide expert : investissement crypto, DCA, staking, trading et finance personnelle"
+  author = "Smart Invest"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  disableSpecial1stPost = false
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
 
   [params.homeInfoParams]
-    Title = "Smart Investment Blog"
-    Content = "Investissement intelligent, crypto, trading et finance personnelle"
+    Title = "Smart Invest"
+    Content = "Guide expert en investissement crypto, DCA, staking, trading algorithmique et finance personnelle. Articles avec données réelles et analyses approfondies."
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/dahut7"
+    url = "https://github.com/allfry007"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -38,3 +46,18 @@ theme = "PaperMod"
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[[menu.main]]
+  name = "Articles"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+
+[[menu.main]]
+  name = "Catégories"
+  url = "/categories/"
+  weight = 3
