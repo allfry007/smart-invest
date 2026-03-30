@@ -24,14 +24,12 @@ Pour les traders professionnels — activité régulière, moyens techniques imp
 
 La déclaration des plus-values s'effectue chaque année via le formulaire 2086, où le calcul repose sur la méthode du prix moyen pondéré d'acquisition de l'ensemble du portefeuille.
 
-1.  **Analyze the Request:**
     *   **Language:** French ONLY (No English).
-    *   **Rules:** ONLY the section content. NO meta-commentsaries, NO "I need to", NO "Word Count", NO "[AFFILIATE_LINK]", NO technical notes.
+
     *   **Section:** Comment déclarer ses plus-values crypto aux impôts (How to declare crypto capital gains to taxes).
     *   **Subject:** fiscalité cryptomonnaie France (France crypto tax).
     *   **Length:** ~250 words.
     *   **Tone/Style:** Professional blog style.
-    *   **Data to integrate:** Trading analysis data (trade_check_1227, 1324, 1635, 1636, 1732) involving [BTC](https://www.amazon.fr/dp/3912371091?tag=smartinve0358-21)/USDT prices, RSI, MACD, ranging regime, etc. *Wait, integrating trading data into a tax guide?* Yes, the prompt explicitly says "Données à intégrer: CONNAISSANCES TRADING...". I need to creatively weave these specific [BTC](https://www.amazon.fr/dp/B0CLDYK6F7?tag=smartinve0358-21) data points into the article about French crypto taxes, perhaps as an example of market volatility triggering taxable events.
 
 2.  **Analyze the Data:**
     *   [BTC](https://www.amazon.fr/dp/2749964148?tag=smartinve0358-21)/USDT: ~66408$ à 67001$ (Range bound, around 66k-67k).

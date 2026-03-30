@@ -27,9 +27,8 @@ Cependant, **toutes les plateformes ne se valent pas**. Les frais de transaction
 
 Dans ce guide complet, nous analysons en détail les meilleures solutions du marché pour vous aider à choisir **la plateforme d'achat crypto programmé** parfaitement adaptée à vos besoins et à votre profil d'investisseur.
 
-1.  **Analyze the Request:**
     *   **Role:** SEO Copywriter Expert in French.
-    *   **Topic:** "meilleure plateforme achat crypto programmé" (best platform for scheduled/recurring crypto purchases).
+
     *   **Section:** "Pourquoi meilleure plateforme achat crypto programmé est important" (Why choosing the best platform for scheduled crypto buying is important).
     *   **Length:** ~250 words.
     *   **Style:** Expert and engaging.
@@ -37,19 +36,16 @@ Dans ce guide complet, nous analysons en détail les meilleures solutions du mar
     *   **Format:** Markdown (## for section title), no frontmatter.
 
 2.  **Identify Key SEO Concepts & User Intent:**
-    *   The user wants to know *why* the choice of platform matters for DCA (Dollar Cost Averaging) / recurring buys.
+
     *   Key concepts to cover: Fees (small amounts accumulate fees), reliability (execution), security, automation features (ease of use), range of assets.
     *   The keyword "meilleure plateforme achat crypto programmé" needs to be integrated naturally.
 
-3.  **Drafting - Structure:**
     *   **Headline:** ## Pourquoi le choix de la meilleure plateforme pour l'achat crypto programmé est crucial (Slightly refined for flow, but sticking to the prompt's intent).
     *   **Introduction:** Hook the reader. Explain that DCA is great, but the tool makes the difference.
     *   **Key Point 1: Fees (The silent killer):** Small recurring buys + high fees = bad investment.
     *   **Key Point 2: Automation & UX:** It needs to be "set and forget."
     *   **Key Point 3: Security/Trust:** You are storing wealth over time.
     *   **Conclusion/CTA:** Drive the action.
-
-4.  **Drafting - Content (Iterative refinement in French):**
 
     *   *Intro:* Le "Dollar Cost Averaging" (DCA) est la stratégie roi. Mais si la plateforme est mauvaise, la stratégie échoue.
     *   *Fees:* Quand on achète peu mais souvent, les frais de transaction mangent le profit. Il faut une plateforme avec des frais bas sur les petits montants.
@@ -101,9 +97,8 @@ Renseignez votre moyen de paiement préféré (virement SEPA, carte bancaire) et
 
 **Conseil d'expert** : Résistez à la tentation de modifier constamment vos paramètres. La puissance du DCA réside dans la constance à long terme, pas dans les ajustements réactifs aux fluctuations de marché.
 
-1.  **Analyze the Request:**
     *   **Role:** SEO Copywriter Expert in French.
-    *   **Topic:** "meilleure plateforme achat crypto programmé" (best platform for scheduled crypto buying / DCA).
+
     *   **Section:** "Erreurs à éviter" (Mistakes to avoid).
     *   **Length:** Approximately 250 words.
     *   **Style:** Expert and engaging.
@@ -165,7 +160,7 @@ Renseignez votre moyen de paiement préféré (virement SEPA, carte bancaire) et
 
 7.  **Final Review against constraints:**
     *   Title: ## Erreurs à éviter... (Check)
-    *   Word count: ~250 words (Check).
+
     *   CTA included? Yes.
     *   Markdown format? Yes.
     *   No frontmatter? Yes.

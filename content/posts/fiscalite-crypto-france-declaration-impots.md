@@ -80,9 +80,7 @@ Chaque année, des milliers de détenteurs de cryptomonnaies commettent les mêm
 
 Déclarer correctement, c'est avant tout se protéger soi-même.
 
-
 👉 [Acheter le Ledger Nano S Plus](https://www.amazon.fr/dp/B0D5FQN9YR?tag=smartinve0358-21) *(partenaire)*
-
 
 👉 [Voir les wallets crypto sur Amazon](https://www.amazon.fr/s?k=hardware+wallet+crypto&tag=smartinve0358-21) *(partenaire)*
 
@@ -90,12 +88,9 @@ Déclarer correctement, c'est avant tout se protéger soi-même.
 **Ne manquez rien** — [Rejoignez la newsletter](#newsletter) et accédez aux guides exclusifs.
 ---
 
-
 👉 [Livres sur l'investissement crypto](https://www.amazon.fr/s?k=livre+investissement+crypto&tag=smartinve0358-21) *(partenaire)*
 
-
 👉 [Matériel de minage crypto](https://www.amazon.fr/s?k=minage+crypto+gpu&tag=smartinve0358-21) *(partenaire)*
-
 
 👉 [Setup trading multi-écrans](https://www.amazon.fr/s?k=ecran+trading+moniteur&tag=smartinve0358-21) *(partenaire)*
 

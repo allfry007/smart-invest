@@ -21,7 +21,6 @@ draft: false
         *   BTC/USDT: 66978$ | RSI=40 | MACD=↓ | Régime=ranging | S
         *   BTC/USDT: 66782$ | RSI=40 | (implies ongoing ranging/downward momentum).
 
-2.  **Deconstruct the Data:**
     *   The price fluctuates slightly in the 66,400$ to 67,000$ range.
     *   RSI is low/neutral (39-40).
     *   MACD is bearish/downward (↓).
@@ -49,13 +48,10 @@ draft: false
 
     *   **Language:** French ONLY. No English.
 
-    *   **Section Title:** Les facteurs macroéconomiques et institutionnels influençant le cours.
-    *   **Topic:** Bitcoin price prediction (prédiction prix bitcoin).
     *   **Length:** ~250 words.
     *   **Style:** Professional blog.
     *   **Data to integrate:** Trading analysis data showing BTC/USDT ranging between 66408$ and 67001$, RSI around 39-40, MACD bearish (↓), Regime = ranging, Signal = Sell (S).
 
-2.  **Deconstruct the Data:**
     *   *Prices:* ~$66,408 to ~$67,001. (Shows a consolidation/slight fluctuation phase).
     *   *RSI (Relative Strength Index):* ~39-40. (Oversold or approaching it, indicating selling pressure).
     *   *MACD:* Downward (↓). (Bearish momentum).
@@ -74,9 +70,6 @@ draft: false
     *   *Elaboration:* Explain *why* these indicators matter in the context of macro factors. Interest rates, liquidity, institutional adoption.
     *   *Conclusion:* Brief outlook on price prediction based on these combined elements.
 
-5.  **Refining and Editing (Checking constraints):**
-
-    *   *Language check:* Strictly French.
     *   *Data check:* Are the numbers and indicators woven in naturally? Yes.
     *   *Tone:* Professional blog.
 
@@ -89,8 +82,6 @@ draft: false
 
     *   **Language:** French ONLY (No English).
 
-    *   **Section Title:** L'impact du Halving et des cycles historiques sur la valeur du Bitcoin.
-    *   **Topic:** prédiction prix bitcoin (Bitcoin price prediction).
     *   **Length:** ~250 words.
     *   **Style:** Professional blog.
     *   **Data to integrate (Trading Knowledge):**
@@ -104,17 +95,13 @@ draft: false
 ---
 
 2.  **Deconstruct the Content Requirements:**
-    *   *Topic:* Bitcoin price prediction, impact of halving, historical cycles.
-    *   *Integration of Data:* Must weave in the current trading data (price ~66k-67k, RSI ~39-40, bearish MACD, ranging market) as a present-day anchor to discuss future predictions based on halving cycles.
 
-3.  **Drafting - Section by Section (aiming for ~250 words):**
+    *   *Integration of Data:* Must weave in the current trading data (price ~66k-67k, RSI ~39-40, bearish MACD, ranging market) as a present-day anchor to discuss future predictions based on halving cycles.
 
     *   *Introduction (Halving & Cycles):* Start by explaining the concept of the Bitcoin halving, which cuts block rewards in half every four years, reducing supply and historically triggering bull runs.
     *   *Current Market Context (Integrating Data):* Introduce the current market situation. Mention the recent price stabilization between 66 000 $ et 67 000 $. Cite the specific indicators: an RSI around 39-40 and a downward MACD (MACD baissier), confirming a ranging regime (marché de consolidation/range).
     *   *Connecting Present to Future (Predictions):* Explain how this current consolidation phase fits perfectly into historical post-halving cycles. Before the parabolic phase, Bitcoin typically digests its previous gains.
     *   *Conclusion (Price Prediction):* Conclude with a prediction that, based on historical cycles, a breakout from this current range could lead to new all-time highs.
-
-4.  **Writing the Content (in French):**
 
     L'impact du Halving et des cycles historiques sur la valeur du Bitcoin
 
@@ -141,12 +128,9 @@ draft: false
         *   Regime: ranging (Régime=ranging).
         *   Signals: Sell/Short (S) implied.
 
-2.  **Deconstruct the Data:**
     *   *Short-term trend:* Consolidation/Ranging (between 66,400$ and 67,000$).
     *   *Indicators:* RSI at 39-40 indicates bearish momentum but nearing oversold territory. MACD is bearish (downward). Overall short-term bias is negative or neutral-to-bearish.
     *   *Long-term trend:* Need to extrapolate a professional blog perspective. While short-term is "ranging" and bearish, long-term usually requires a broader macroeconomic view (halving, institutional adoption, etc. - though I must stick closely to the provided data's tone while fleshing it out to 250 words).
-
-3.  **Drafting - Section by Section (incorporating constraints):**
 
     *   *Title:* Prévisions des experts : Analyses à court et à long terme
 
@@ -189,7 +173,6 @@ draft: false
 **Ne manquez rien** — [Rejoignez la newsletter](#newsletter) et accédez aux guides exclusifs.
 ---
 
-3.  **Drafting - Section Structure (Professional Blog Conclusion):**
     *   **Introduction to the current state:** Acknowledge the current price stagnation and market sentiment based on the data.
     *   **Opportunities:** How to play a ranging market with low RSI.
     *   **Risks:** The bearish MACD and downward pressure.
@@ -212,14 +195,10 @@ draft: false
 
 👉 [Créer un compte Binance](https://www.binance.com/fr/register?ref=GENESIS2026) *(partenaire)*
 
-
 👉 [Ouvrir un compte Bitpanda](https://www.bitpanda.com/?ref=genesis2026) *(partenaire)*
-
 
 👉 [S'inscrire sur Kraken](https://trade.kraken.com/signup?ref=genesis) *(partenaire)*
 
-
 👉 [Essayer eToro gratuitement](https://www.etoro.com/fr/?ref=genesis2026) *(partenaire)*
-
 
 👉 [Télécharger SwissBorg](https://swissborg.com/join?ref=genesis) *(partenaire)*
