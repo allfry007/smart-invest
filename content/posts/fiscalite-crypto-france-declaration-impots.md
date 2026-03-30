@@ -105,3 +105,12 @@ Côté obligations déclaratives, ne négligez surtout pas le formulaire 3916-bi
 Avec l'entrée en application du règlement européen MiCA en 2024-2025, les plateformes régulées transmettront davantage d'informations aux administrations fiscales. La transparence devient la norme. Ironiquement, un document de Bercy révélé début 2025 montre que plus de 13 000 millionnaires français ne paient pas d'impôt sur le revenu — preuve que l'optimisation fiscale légale reste un sport national, y compris hors crypto.
 
 Anticipez : tenez un registre précis de chaque transaction, utilisez un agrégateur fiscal dédié, et consultez un conseiller si votre portefeuille dépasse les cinq chiffres.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

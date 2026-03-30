@@ -173,3 +173,12 @@ La divergence entre le RSI neutre et le MACD haussier suggère une accumulation 
 4. **Gestion du risque** : Maintenir une exposition maximale de 30% du portefeuille tant que le régime "ranging" persiste.
 
 La prudence reste de mise : cette phase de consolidation précède généralement un mouvement directionnel fort dont l'ampleur dépendra des volumes lors de la cassure.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

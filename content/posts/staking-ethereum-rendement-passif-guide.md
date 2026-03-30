@@ -103,3 +103,12 @@ Le rendement annuel oscille actuellement entre 3 % et 5 % selon la plateforme ch
 ### Points de vigilance
 
 Vérifiez toujours la réputation du protocole utilisé. Privilégiez les solutions auditées et éprouvées. Le staking liquide comporte un risque de dépeg du jeton dérivé — diversifiez vos positions pour limiter l'exposition.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

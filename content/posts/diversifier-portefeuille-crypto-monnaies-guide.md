@@ -127,3 +127,12 @@ Rééquilibrer un portefeuille crypto ne se fait pas au hasard. Il existe aujour
 **La méthode par seuil** déclenche un rééquilibrage uniquement quand un actif dévie de plus de 5 à 10 % de son allocation cible. En période de marché latéral — comme le montre le Bitcoin autour des 66 000-67 000 $ avec un RSI proche de 40 et un MACD baissier — cette approche limite les transactions inutiles et les frais associés.
 
 Quelle que soit la méthode retenue, documentez chaque rééquilibrage. Notez les raisons, les montants et les résultats. Ce journal de bord devient un outil d'apprentissage précieux pour affiner votre stratégie de diversification au fil du temps.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+- [Diversification Crypto](/smart-invest/posts/diversification-crypto/)
+

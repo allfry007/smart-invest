@@ -259,3 +259,12 @@ Les données historiques sont claires : un DCA hebdomadaire sur Bitcoin depuis n
 **Faut-il arrêter son DCA pendant un bear market ?**
 
 Au contraire. C'est précisément en marché baissier que le DCA produit ses meilleurs résultats, car vous accumulez davantage d'unités à prix réduit. La discipline dans les phases de peur est ce qui sépare les portefeuilles gagnants des autres.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

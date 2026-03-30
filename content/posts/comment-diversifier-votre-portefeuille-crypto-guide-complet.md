@@ -121,3 +121,12 @@ Répartissez vos actifs selon votre tolérance au risque :
 Adoptez une approche trimestrielle ou lors de variations dépassant 5% de votre allocation cible. Évitez les réactions émotionnelles face aux mouvements quotidiens. La discipline prime sur la tentative de chronométrer le marché.
 
 Documentez chaque ajustement pour affiner votre stratégie au fil des cycles.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+- [Diversification Crypto](/smart-invest/posts/diversification-crypto/)
+

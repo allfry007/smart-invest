@@ -255,3 +255,12 @@ C'est précisément là qu'il brille. En accumulant pendant les phases de baisse
 **Quels cryptos privilégier pour une stratégie DCA en 2026 ?**
 
 Bitcoin et Ethereum restent les choix les plus sûrs pour un DCA long terme. Certains investisseurs diversifient avec 70 % BTC, 20 % ETH et 10 % sur des altcoins à forte conviction, mais la prudence reste de mise sur les actifs plus volatils.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

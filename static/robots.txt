@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allfry007.github.io/smart-invest/sitemap.xml

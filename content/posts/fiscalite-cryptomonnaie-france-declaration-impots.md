@@ -121,3 +121,12 @@ En France, les plus-values sur les cryptomonnaies sont soumises au prélèvement
 **Documenter chaque opération.** Un suivi rigoureux de toutes les transactions — dates, montants, plateformes — reste la meilleure protection en cas de contrôle et permet de justifier précisément votre base imposable.
 
 Une planification fiscale anticipée transforme la contrainte en avantage concurrentiel pour tout investisseur sérieux.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

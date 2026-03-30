@@ -253,3 +253,12 @@ Notre recommandation d'expert : **combinez le DCA avec une stratégie de prise d
 En définitive, le DCA reste l'une des stratégies les plus accessibles et efficaces pour construire progressivement un portefeuille crypto résilient. Ce n'est peut-être pas la stratégie la plus excitante, mais c'est souvent la plus rentable pour l'investisseur patient et méthodique.
 
 *Prêt à démarrer votre DCA ? Commencez par définir un montant mensuel réaliste et automatisez vos achats dès aujourd'hui.*
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

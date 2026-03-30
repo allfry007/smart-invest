@@ -185,3 +185,12 @@ draft: false
 👉 [Essayer eToro gratuitement](https://www.etoro.com/fr/?ref=genesis2026) *(partenaire)*
 
 👉 [Télécharger SwissBorg](https://swissborg.com/join?ref=genesis) *(partenaire)*
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Diversification Crypto](/smart-invest/posts/diversification-crypto/)
+

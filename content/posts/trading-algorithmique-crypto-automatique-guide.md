@@ -112,3 +112,12 @@ Lancer son premier bot de trading crypto peut sembler intimidant, mais le proces
 **Passer en réel progressivement.** Démarrez avec un capital réduit — 50 à 100 € suffisent pour valider votre stratégie en conditions réelles. Augmentez uniquement après plusieurs semaines de résultats cohérents.
 
 La clé du trading algorithmique, c'est la discipline. Le bot exécute, mais c'est vous qui définissez les règles.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

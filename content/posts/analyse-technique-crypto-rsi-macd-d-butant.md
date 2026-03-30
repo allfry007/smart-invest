@@ -136,3 +136,12 @@ Pour débuter, ouvrez un graphique sur TradingView, ajoutez ces deux indicateurs
 👉 [Ledger STAX avec BTC - Le Signer Crypto Haut de Gamme à écra](https://www.amazon.fr/dp/B0FCZQ8FTV?tag=smartinve0358-21) *(partenaire)*
 
 👉 [Ledger Flex Magnet Folio - l’étui pour protéger Votre Wallet](https://www.amazon.fr/dp/B0DDVF5839?tag=smartinve0358-21) *(partenaire)*
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

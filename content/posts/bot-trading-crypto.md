@@ -188,3 +188,12 @@ Pour optimiser votre bot trading, priorisez les actions suivantes :
 Démarrez par un compte papier pendant trente jours minimum. Documentez chaque décision algorithmique et ajustez les paramètres progressivement. La transition vers le trading réel doit s'effectuer par paliers, en augmentant l'exposition selon les performances validées.
 
 *Le succès en bot trading réside dans la discipline d'exécution plutôt que dans la complexité technique.*
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+

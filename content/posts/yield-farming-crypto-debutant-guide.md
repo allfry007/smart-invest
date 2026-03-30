@@ -121,3 +121,12 @@ Le processus se décompose en quelques étapes clés. D'abord, procurez-vous un 
 Attention aux risques. L'impermanent loss peut réduire vos gains lorsque le prix des actifs déposés fluctue fortement. Les frais de gas sur Ethereum peuvent aussi grignoter vos rendements si vous travaillez avec de petits montants. Pour contourner ce problème, explorez les solutions Layer 2 comme Arbitrum ou Optimism, où les frais restent minimes.
 
 Un conseil essentiel : ne misez jamais plus que ce que vous êtes prêt à perdre. Commencez avec un petit montant, comprenez les mécanismes, puis augmentez progressivement votre exposition. Le yield farming récompense la patience et la prudence, pas la précipitation.
+
+---
+
+### À lire aussi
+
+- [Comment Diversifier Votre Portefeuille Crypto : Guide Complet](/smart-invest/posts/comment-diversifier-votre-portefeuille-crypto-guide-complet/)
+- [Comment Diversifier Votre Portefeuille de Cryptomonnaies : Guide Complet](/smart-invest/posts/diversifier-portefeuille-crypto-monnaies-guide/)
+- [Comment construire et gérer un portefeuille crypto diversifié](/smart-invest/posts/portefeuille-crypto-diversifie-guide-complet/)
+
