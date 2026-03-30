@@ -2,7 +2,8 @@ baseURL = "https://allfry007.github.io/smart-invest/"
 languageCode = "fr-fr"
 title = "Smart Invest"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
   env = "production"
