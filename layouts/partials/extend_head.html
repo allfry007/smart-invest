@@ -1,0 +1,6 @@
+{{- /* Vérification Google Search Console : balise injectée depuis la config.
+       Mettre le token dans hugo.toml → [params] googleSiteVerification = "..."
+       Permet à l'agent autonome de vérifier la propriété + soumettre le sitemap. */ -}}
+{{- with .Site.Params.googleSiteVerification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{- end }}
