@@ -1,11 +1,16 @@
 ---
 title: "Portefeuille Matériel"
-slug: "portefeuille-mat-riel"
+slug: "portefeuille-materiel-crypto"
 date: 2026-03-28T13:03:15+00:00
 categories: ["sécurité crypto wallet hardware"]
 tags: ["portefeuille mat\u00e9riel"]
 description: "Portefeuille Matériel"
 draft: false
+aliases:
+  - /posts/portefeuille-mat-riel/
+  - /posts/portefeuille-mat-riel-crypto-s-curis-avis/
+  - /posts/portefeuille-materiel-crypto-securise-avis/
+  - /posts/portefeuille-materiel-crypto-securise-guide/
 ---
 
 # Introduction au Portefeuille Matériel

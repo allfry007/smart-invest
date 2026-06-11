@@ -6,6 +6,14 @@ categories: ["ethereum staking validator"]
 tags: ["staking ethereum rendement passif"]
 description: "Staking Ethereum : Guide Complet pour Générer un Rendement Passif"
 draft: false
+aliases:
+  - /posts/devenir-validateur-ethereum-role-fonctionnement-recompenses/
+  - /posts/guide-complet-staking-crypto/
+  - /posts/guide-complet-validateur-ethereum/
+  - /posts/guide-staking-crypto-rendement-passif/
+  - /posts/staking-crypto/
+  - /posts/staking-crypto-rendement-passif-guide/
+  - /posts/validateur-ethereum/
 ---
 
 ## Qu'est-ce que le Staking Ethereum et Comment Ça Fonctionne

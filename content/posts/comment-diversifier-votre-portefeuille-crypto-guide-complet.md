@@ -6,6 +6,13 @@ categories: ["portfolio crypto diversification"]
 tags: ["portfolio crypto diversification"]
 description: "Comment Diversifier Votre Portefeuille Crypto : Guide Complet"
 draft: false
+aliases:
+  - /posts/diversification-crypto/
+  - /posts/diversification-portfolio-crypto-guide/
+  - /posts/diversifier-portefeuille-crypto-monnaies-guide/
+  - /posts/guide-complet-diversification-crypto-strategies-conseils/
+  - /posts/portefeuille-crypto-diversifie-guide-complet/
+  - /posts/strategies-diversification-crypto/
 ---
 
 # Pourquoi la diversification est essentielle en crypto

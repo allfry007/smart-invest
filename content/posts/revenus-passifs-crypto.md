@@ -6,6 +6,8 @@ categories: ["staking crypto rendement passif"]
 tags: ["Revenus passifs crypto"]
 description: "Revenus Passifs Crypto"
 draft: false
+aliases:
+  - /posts/guide-revenus-passifs-crypto/
 ---
 
 # Introduction aux Revenus Passifs Crypto

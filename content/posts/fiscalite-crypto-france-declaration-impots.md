@@ -6,6 +6,13 @@ categories: ["crypto fiscalité impôts France"]
 tags: ["fiscalit\u00e9 crypto france d\u00e9claration imp\u00f4ts"]
 description: "Fiscalité Crypto en France : Comment Déclarer ses Impôts en 2026"
 draft: false
+aliases:
+  - /posts/fiscalit-cryptomonnaie-france/
+  - /posts/fiscalite-crypto-france-declaration/
+  - /posts/fiscalite-crypto-monnaie-france-declaration/
+  - /posts/fiscalite-crypto-monnaies-france-guide-2026/
+  - /posts/fiscalite-cryptomonnaie-france-declaration-impots/
+  - /posts/fiscalite-cryptomonnaies-france/
 ---
 
 Tout résident fiscal français détenant des cryptomonnaies est potentiellement concerné par des obligations déclaratives. Et contrairement à une idée reçue, ce n'est pas qu'une affaire de gros portefeuilles.

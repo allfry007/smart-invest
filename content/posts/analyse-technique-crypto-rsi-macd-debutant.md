@@ -6,6 +6,13 @@ categories: ["analyse technique crypto RSI MACD"]
 tags: ["analyse technique crypto RSI MACD d\u00e9butant"]
 description: "Analyse Technique Crypto : Maîtriser le RSI et le MACD quand on Débute"
 draft: false
+aliases:
+  - /posts/analyse-technique-crypto-rsi-macd-d-butant/
+  - /posts/analyse-technique-rsi-macd-crypto/
+  - /posts/guide-analyse-technique-crypto/
+  - /posts/indicateur-rsi-crypto-guide/
+  - /posts/indicateur-rsi-cryptomonnaie/
+  - /posts/strategie-rsi-macd-crypto-guide-complet/
 ---
 
 ## Qu'est-ce que l'analyse technique en crypto ?
