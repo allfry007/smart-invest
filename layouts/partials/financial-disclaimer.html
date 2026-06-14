@@ -1,0 +1,11 @@
+{{- /* Avertissement financier YMYL — OBLIGATOIRE pour contenu crypto/finance
+       sous MiCA (règl. UE 2023/1114) + doctrine AMF/ARPP : mettre en avant le
+       risque de perte du capital, ne pas présenter comme conseil. Conditionné à
+       la catégorie pour ne pas polluer d'éventuels articles non-financiers. */ -}}
+{{- $fin := false -}}
+{{- range (.GetTerms "categories") -}}{{- if or (in (lower .LinkTitle) "crypto") (in (lower .LinkTitle) "financ") (in (lower .LinkTitle) "invest") (in (lower .LinkTitle) "bourse") (in (lower .LinkTitle) "trading") -}}{{- $fin = true -}}{{- end -}}{{- end -}}
+{{- if or $fin .Site.Params.alwaysFinancialDisclaimer -}}
+<div class="financial-disclaimer" style="border-left:4px solid #d9534f;background:#fdf3f3;padding:.7em 1em;margin:1em 0;border-radius:6px;font-size:.92em;line-height:1.5">
+  ⚠️ <strong>Avertissement —</strong> Contenu informatif, <strong>ne constituant pas un conseil en investissement</strong>. Les crypto-actifs sont très volatils et comportent un <strong>risque de perte partielle ou totale du capital</strong>. Faites vos propres recherches ; au besoin, consultez un conseiller agréé. Privilégiez les prestataires enregistrés <strong>PSAN / MiCA</strong>.
+</div>
+{{- end -}}
