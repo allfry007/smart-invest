@@ -9,8 +9,13 @@ ShowToc: false
 
 ## Éditeur du site
 
-Site édité à titre informatif. Contact : voir page de contact.
-*(À compléter : raison sociale / nom de l'éditeur, statut, e-mail de contact.)*
+Site édité par **Mr DataStorm** (Smart Invest), créateur de contenu sur
+l'investissement, la crypto et le trading.
+Contact : **allfry007@gmail.com** ·
+[YouTube — Mr DataStorm](https://www.youtube.com/@mrdatastorm007)
+
+*(Le cas échéant, compléter avec la raison sociale / le statut juridique de
+l'éditeur si une structure commerciale est constituée.)*
 
 ## Hébergement
 

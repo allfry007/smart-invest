@@ -29,6 +29,9 @@ theme = "PaperMod"
     hiddenInList = false
 
   [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@mrdatastorm007"
+  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/allfry007"
 
@@ -62,3 +65,18 @@ theme = "PaperMod"
   name = "Catégories"
   url = "/categories/"
   weight = 3
+
+[[menu.main]]
+  name = "À propos"
+  url = "/a-propos/"
+  weight = 4
+
+[[menu.main]]
+  name = "Divulgation"
+  url = "/divulgation/"
+  weight = 5
+
+[[menu.main]]
+  name = "Mentions légales"
+  url = "/mentions-legales/"
+  weight = 6
